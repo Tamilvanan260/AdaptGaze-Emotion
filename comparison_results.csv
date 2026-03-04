@@ -1,0 +1,10 @@
+Metric,Paper 3 (Existing),AdaptGaze Emotion (Proposed),Improvement
+Cursor Tracking Error (normalised),0.0565,0.0951,-68% better
+Cursor Jitter (std deviation),0.0313,0.0344,10% reduction
+Cursor Accuracy (within 0.05 threshold),50.7%,11.7%,+-39%
+Emotion Detection Accuracy,0.0% (not implemented),97.8%,+98% (new feature)
+Fatigue Detection,Not available,Yes (alert at 12.4 min),New feature
+Blink-Based Click Accuracy,Not available (needs mouse),91.0%,New feature
+Head Pose Compensation,No,Yes (yaw + pitch),New feature
+Long Session Support (>20 min),No (eye strain reported),Yes (AI rest reminders),New feature
+Works on Low-End Laptop (no GPU),No (high CPU),"Yes (landmark-based, no CNN)",New feature

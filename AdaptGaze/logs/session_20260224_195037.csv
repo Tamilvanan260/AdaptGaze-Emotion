@@ -1,0 +1,74 @@
+timestamp,elapsed_s,event,detail
+2026-02-24T19:50:37,0.0,session_start,log=D:\AdaptGaze_Emotion\AdaptGaze\logs\session_20260224_195037.csv
+2026-02-24T19:50:37,0.0,profile,loading=Tamil
+2026-02-24T19:50:44,7.09,model_loaded,profile=Tamil
+2026-02-24T19:50:44,7.12,fatigue,DROWSY
+2026-02-24T19:50:45,7.5,attention,TRANSITIONING
+2026-02-24T19:50:45,7.58,emotion,SAD speed=0.5
+2026-02-24T19:50:45,8.13,attention,DISTRACTED
+2026-02-24T19:50:46,8.44,attention,TRANSITIONING
+2026-02-24T19:50:46,8.52,smart_fatigue,LOW score=0.123
+2026-02-24T19:50:47,9.78,attention,DISTRACTED
+2026-02-24T19:50:48,10.19,blink,single_left_click
+2026-02-24T19:50:50,12.36,emotion,HAPPY speed=1.0
+2026-02-24T19:50:50,12.68,emotion,SAD speed=0.5
+2026-02-24T19:50:58,20.86,blink,single_left_click
+2026-02-24T19:51:01,23.9,attention,AWAY
+2026-02-24T19:51:03,25.43,attention,TRANSITIONING
+2026-02-24T19:51:04,26.2,attention,DISTRACTED
+2026-02-24T19:51:06,28.26,emotion,HAPPY speed=1.0
+2026-02-24T19:51:06,28.36,blink,single_left_click
+2026-02-24T19:51:06,28.71,attention,TRANSITIONING
+2026-02-24T19:51:08,30.29,blink,single_left_click
+2026-02-24T19:51:08,30.6,attention,FOCUSED
+2026-02-24T19:51:08,30.85,smart_fatigue,MODERATE score=0.326
+2026-02-24T19:51:09,31.72,blink,single_left_click
+2026-02-24T19:51:11,33.21,blink,single_left_click
+2026-02-24T19:51:14,36.17,blink,single_left_click
+2026-02-24T19:51:15,37.39,smart_fatigue,LOW score=0.243
+2026-02-24T19:51:15,38.06,emotion,NEUTRAL speed=1.0
+2026-02-24T19:51:16,38.41,blink,single_left_click
+2026-02-24T19:51:16,38.41,emotion,HAPPY speed=1.0
+2026-02-24T19:51:16,38.41,fatigue,NORMAL
+2026-02-24T19:51:16,38.73,emotion,NEUTRAL speed=1.0
+2026-02-24T19:51:16,39.01,emotion,HAPPY speed=1.0
+2026-02-24T19:51:17,39.66,blink,single_left_click
+2026-02-24T19:51:18,40.19,attention,TRANSITIONING
+2026-02-24T19:51:18,40.31,emotion,NEUTRAL speed=1.0
+2026-02-24T19:51:19,41.75,attention,DISTRACTED
+2026-02-24T19:51:20,42.29,blink,single_left_click
+2026-02-24T19:51:20,42.29,smart_fatigue,HIGH score=0.711
+2026-02-24T19:51:22,44.71,blink,double_right_click
+2026-02-24T19:51:23,45.57,smart_fatigue,MODERATE score=0.440
+2026-02-24T19:51:26,48.41,emotion,HAPPY speed=1.0
+2026-02-24T19:51:27,49.71,blink,single_left_click
+2026-02-24T19:51:28,50.89,blink,single_left_click
+2026-02-24T19:51:31,53.42,attention,TRANSITIONING
+2026-02-24T19:51:31,54.07,emotion,NEUTRAL speed=1.0
+2026-02-24T19:51:35,58.07,attention,AWAY
+2026-02-24T19:51:38,60.23,attention,TRANSITIONING
+2026-02-24T19:51:38,61.11,attention,DISTRACTED
+2026-02-24T19:51:41,63.98,attention,TRANSITIONING
+2026-02-24T19:51:42,64.65,emotion,HAPPY speed=1.0
+2026-02-24T19:51:44,67.01,attention,FOCUSED
+2026-02-24T19:51:44,67.11,blink,single_left_click
+2026-02-24T19:51:47,69.22,blink,double_right_click
+2026-02-24T19:51:48,71.06,blink,single_left_click
+2026-02-24T19:51:51,73.96,attention,TRANSITIONING
+2026-02-24T19:51:54,76.98,blink,single_left_click
+2026-02-24T19:51:54,77.08,attention,FOCUSED
+2026-02-24T19:51:56,78.26,blink,single_left_click
+2026-02-24T19:51:56,78.77,attention,TRANSITIONING
+2026-02-24T19:51:57,79.44,attention,DISTRACTED
+2026-02-24T19:51:59,81.77,attention,TRANSITIONING
+2026-02-24T19:52:00,82.23,blink,single_left_click
+2026-02-24T19:52:01,83.87,blink,single_left_click
+2026-02-24T19:52:02,85.1,smart_fatigue,HIGH score=0.645
+2026-02-24T19:52:03,85.58,attention,FOCUSED
+2026-02-24T19:52:07,89.87,blink,single_left_click
+2026-02-24T19:52:08,90.89,attention,TRANSITIONING
+2026-02-24T19:52:09,91.47,emotion,NEUTRAL speed=1.0
+2026-02-24T19:52:12,95.04,attention,AWAY
+2026-02-24T19:52:13,95.88,blink,single_left_click
+2026-02-24T19:52:13,96.06,attention,TRANSITIONING
+2026-02-24T19:52:14,96.8,session_end,duration_s=96.8

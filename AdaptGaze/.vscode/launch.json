@@ -1,0 +1,32 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "AdaptGaze – Run (requires calibration)",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/main.py",
+      "args": [],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "AdaptGaze – Calibrate then Run",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/main.py",
+      "args": ["--calibrate"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    },
+    {
+      "name": "AdaptGaze – Calibrate Only",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/main.py",
+      "args": ["--calibrate-only"],
+      "console": "integratedTerminal",
+      "justMyCode": true
+    }
+  ]
+}
