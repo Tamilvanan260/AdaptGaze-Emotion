@@ -1,7 +1,6 @@
 # 👁️ AdaptGaze Emotion
 
 > **AI-Powered Eye-Tracking Mouse Controller with Emotion Awareness**
-> Final Year Project | III BSc AI & ML – B | 2025–2026
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)](https://python.org)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13-orange?logo=tensorflow)](https://tensorflow.org)
@@ -186,7 +185,7 @@ Pandas
 ## 👤 Author
 
 TAMILVANAN I
-III BSc Artificial Intelligence & Machine Learning
+BSc Artificial Intelligence & Machine Learning
 2025–2026
 
 ---
